@@ -1,8 +1,8 @@
 # Open Source Audit — Shell Scripts
 
 ## 👤 Student Details
-- **Name:** Prasanna Pratap Singh
-- **Registration Number:** 24BCE11176
+- **Name:** Prince kumar verma
+- **Registration Number:** 24BCE11213
 - **Course:** Open Source Software (OSS NGMC)  
 - **Project Title:** Open Source Audit  
 - **Chosen Software:** Git  
