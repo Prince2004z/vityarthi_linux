@@ -1,1 +1,0 @@
-# vityarthi_linux
